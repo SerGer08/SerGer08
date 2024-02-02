@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SerGer08
+- 👋 Hi, I’m Sergienko German
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
