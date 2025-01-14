@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergienko German
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning python and c#
+- 👀 I’m interested in IT and engineering
+- 🌱 I know Python, C#, JavaScript, Lua, PHP, HTML, CSS and SQL, also I still learning Java and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
